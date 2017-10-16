@@ -51,4 +51,6 @@ Read over the following articles to learn how to deploy this web site to Surge.
 - [Getting started with Surge](http://surge.sh/help/getting-started-with-surge)
 - [Remembering a domain](http://surge.sh/help/remembering-a-domain)
 
+MY DOMAIN URL: FrederickE-pixel-art-maker.surge.sh
+
 A good domain name for this project is `USERNAME-pixel-art-maker.surge.sh` where `USERNAME` is your GitHub username in all **lowercase** letters. Once deployed and everything works as you expect, copy your Surge URL and paste it at the top of your GitHub repository's page.

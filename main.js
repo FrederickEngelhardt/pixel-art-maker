@@ -6,7 +6,6 @@ var color = ['red', '#FED8B1', '#FFA500', 'blue', 'green', 'yellow', 'purple', '
 var palette = document.getElementsByClassName('palette')[0]
 function createTable () {
   for (var i = 0; i < 3002; i++) {
-    console.log('STARTED')
     var tile = document.createElement('div');
     main.appendChild(tile);
     tile.style.width = '1.1%'
@@ -26,7 +25,6 @@ function createPalette(){
     tile.display = 'float'
     tile.style.float = 'left'
     tile.style.background = color[i]
-    console.log('YO we made it!')
     tile.style.border = 'thin solid black'
   }
 }
